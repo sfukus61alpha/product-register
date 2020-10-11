@@ -1,4 +1,4 @@
-sodo: required
+sudo: required
 
 services: docker
 
